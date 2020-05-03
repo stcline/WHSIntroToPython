@@ -10,6 +10,20 @@
 </ol>  
 
 ## Course Outline
+<ol>
+  <li>Housekeeping Tasks (Do these before our first class)</li>
+  <li>Course Syllabus and Course Policies Confirmation</li>
+  <li>Unit 1 - Introduction</li>
+  <li>Unit 2 - Variable, Expressions and Statements</li>
+  <li>Unit 3 - Functions</li>
+  <li>Unit 4 - Recursion and Conditionals</li>
+  <li>Unit 5 - Return Functions</li>
+  <li>Unit 6 - Iteration</li>
+  <li>Unit 7 - Strings, Lists and Dictionaries</li>
+  <li>Unit 8 - Object Oriented Programming</li>
+  <li>Unit 9 - Inheritance</li>
+  <li>Unit 10 - Capstone Project</li>
+</ol>
 
 ## Course Materials
 * <a href="http://www.github.com/stcline/WHSIntroToPython/tree/master/Lecture_Notes" target="_blank">Course Lectures</a>
