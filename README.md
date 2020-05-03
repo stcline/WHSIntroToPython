@@ -10,7 +10,7 @@
 </ol>  
 
 ## Course Outline
-<ol>
+<ul style="list-style-type:square;">
   <li>Housekeeping Tasks (Do these before our first class)</li>
   <li>Course Syllabus and Course Policies Confirmation</li>
   <li>Unit 1 - Introduction</li>
@@ -23,14 +23,15 @@
   <li>Unit 8 - Object Oriented Programming</li>
   <li>Unit 9 - Inheritance</li>
   <li>Unit 10 - Capstone Project</li>
-</ol>
+</ul>
 
 ## Course Materials
-* <a href="http://www.github.com/stcline/WHSIntroToPython/tree/master/Lecture_Notes" target="_blank">Course Lectures</a>
-* Jupyter Notebooks
-* Online Text
-* YouTube Channel
-* Supplemental Materials
+<ul style="list-style-type:square;">
+  <li><a href="http://www.github.com/stcline/WHSIntroToPython/tree/master/Lecture_Notes" target="_blank">Course Lectures</a></li>
+  <li>Jupyter Notebooks</li>
+  <li>Online Text</li>
+  <li>YouTube Channel</li>
+  <li>Supplemental Materials</li>
 
 ## Class Policies
 
