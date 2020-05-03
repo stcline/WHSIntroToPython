@@ -8,6 +8,8 @@
   <li>Anyone can learn a programming language.  While it comes easier to some, through persistence, we can all do it.</li>
   <li>Learning Python can be a fun journey if you are willing to work to learn!</li>
 </ol>  
+<img src="https://www.nasa.gov/sites/default/files/thumbnails/image/df-20457_rv2.jpg">
+###"They say that no plan survives first contact with implementation.  I tend to agree. -- Mark Watney, Sol 41"
 
 ## Course Outline
 <ul style="list-style-type:square;">
