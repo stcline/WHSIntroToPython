@@ -9,7 +9,7 @@
   <li>Learning Python can be a fun journey if you are willing to work to learn!</li>
 </ol>  
 <img src="https://www.nasa.gov/sites/default/files/styles/ubernode_alt_horiz/public/thumbnails/image/df-20457_rv2.jpg">
-###"They say that no plan survives first contact with implementation.  I tend to agree. -- Mark Watney, Sol 41"
+<i>"They say that no plan survives first contact with implementation.  I tend to agree."</i> -- Mark Watney, Sol 41
 
 ## Course Outline
 <ul style="list-style-type:square;">
