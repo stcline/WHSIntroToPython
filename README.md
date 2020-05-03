@@ -9,7 +9,7 @@
   <li>Learning Python can be a fun journey if you are willing to work to learn!</li>
 </ol>  
 <img src="https://www.nasa.gov/sites/default/files/styles/ubernode_alt_horiz/public/thumbnails/image/df-20457_rv2.jpg">
-<i>"They say that no plan survives first contact with implementation.  I tend to agree."</i> -- Mark Watney, Sol 41
+<p><i>"They say that no plan survives first contact with implementation.  I tend to agree."</i> -- Mark Watney, Sol 41</p>
 
 <p> <b>Remember that programmers spend a majority of their time debugging code.  You will too.  It is not because this course is made too hard for you...it is just the way programming works.</b></p>
 
