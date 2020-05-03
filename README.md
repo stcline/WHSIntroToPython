@@ -6,3 +6,9 @@ Welcome to Introduction to Python.  If you are reading this, you are probably a 
 * <a href="http://www.github.com/stcline/WHSIntroToPython/tree/master/Lecture_Notes" target="_blank">Course Lectures</a>
 * Jupyter Notebooks
 * Online Text
+
+## Course Outline
+
+## Class Policies
+
+## Contact Information
